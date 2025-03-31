@@ -14,7 +14,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 <h3> 📄 Resume</h3>
 
-
+<b>View my Resume (PDF)</b>
 
 👉  [View my Resume (PDF)]([https://github.com/iyanuels/Cloud-Soc](https://drive.google.com/file/d/11QXFldkCdR99GmDlVc4KRzZ34EaqszEF/view?usp=drive_link))
 
