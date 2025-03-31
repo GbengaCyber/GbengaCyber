@@ -16,7 +16,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 
 
-👉 View my Resume (PDF)
+👉 View my Resume (PDF) (https://drive.google.com/file/d/11QXFldkCdR99GmDlVc4KRzZ34EaqszEF/view?usp=drive_link)
 
 
 <h3> 🛠️ Sentinel Projects/h3>
