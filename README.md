@@ -15,7 +15,13 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 <h2> 📄 Resume</h2>
 
 
-<h2> 🤳 Connect with me:</h2>
+
+<h2> 🛠️ Sentinel Projects/h2>
+
+<h2> ⚠️ Vulnerability Management Projects</h2>
+
+
+<h2> 🎓 Certifications</h2>
 
 [<img align="left" alt="GbengaAbraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
