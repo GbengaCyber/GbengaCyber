@@ -5,13 +5,19 @@ From vulnerability management to threat detection, these projects allow me to di
 Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!</h4>
 
 
-<h2>👨‍💻 Azure/Cybersecurity Projects:</h2>
 
-- <b>Azure/Cloud Projects</b>
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/iyanuels/Cloud-Soc)
+## ⚠️ Vulnerability Management Projects
 
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
+## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
 
 
 
