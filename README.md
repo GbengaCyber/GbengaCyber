@@ -1,4 +1,3 @@
-<h1>Hi, I'm Gbenga! Cyber Security Analyst</h1>
 # <a href="https://www.linkedin.com/in/gbenga-abraham-a31a40250)">Gbenga Abraham</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 <h4>I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects.
