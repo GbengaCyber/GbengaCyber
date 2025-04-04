@@ -4,7 +4,7 @@
 From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity.
 Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!</h4>
 
-
+<hr/>
 
 ## 📄 Resume
 
