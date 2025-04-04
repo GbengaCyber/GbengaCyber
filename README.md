@@ -16,9 +16,9 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GbengaCyber/threat-hunting-scenario-tor)**
 
 
-## 🔥 SOC Honeynet in Azure (Live Traffic)
+## 🔥 Sentinel Projects 
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GbengaCyber/Cloud-Soc)**
+- **[Cloud SOC Honeynet in Azure (Live Traffic)](https://github.com/GbengaCyber/Cloud-Soc)**
 
 
 <hr/>
