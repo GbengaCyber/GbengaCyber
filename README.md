@@ -8,7 +8,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 📄 Resume
 
-- **[👉 View my Resume (PDF)](https://github.com/GbengaCyber/Cloud-Soc)**
+- **[👉 View my Resume (PDF)](https://drive.google.com/file/d/11QXFldkCdR99GmDlVc4KRzZ34EaqszEF/view?usp=drive_link)**
 
 <hr/>
 
