@@ -19,6 +19,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 
 <hr/>
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GbengaCyber/threat-hunting-scenario-tor)**
@@ -26,6 +27,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 
 <hr/>
+
 ## 🔥 Sentinel Projects 
 
 - **[Cloud SOC Honeynet in Azure (Live Traffic)](https://github.com/GbengaCyber/Cloud-Soc)**
