@@ -35,6 +35,15 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 <hr/>
 
+
+## 🔥 Remote Command Execution Detection/ Device Isolation 
+
+- **[Cloud SOC Honeynet in Azure (Live Traffic)](https://github.com/GbengaCyber/Cloud-Soc)**
+
+
+<hr/>
+
+
 ## 🤳 Connect With Me
 
 
