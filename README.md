@@ -38,7 +38,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 🔥 Remote Command Execution Detection/ Device Isolation 
 
-- **[Cloud SOC Honeynet in Azure (Live Traffic)](https://github.com/GbengaCyber/rce)**
+- **[Remote Code Execution Detection / Device Isolation MDE/KQL)](https://github.com/GbengaCyber/rce)**
 
 
 <hr/>
