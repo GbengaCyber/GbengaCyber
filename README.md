@@ -38,7 +38,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 🔥 Remote Command Execution Detection/ Device Isolation 
 
-- **[Remote Code Execution Detection / Device Isolation MDE/KQL)](https://github.com/GbengaCyber/rce)**
+- **[Remote Code Execution Detection / Device Isolation MDE/KQL)](https://github.com/GbengaCyber/Remote-Code-Execution---Detection-MDE-KQL)**
 
 
 <hr/>
