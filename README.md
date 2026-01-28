@@ -26,7 +26,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[Devices Accidentally Exposed to the Internet/Investigation & Remediation)](https://github.com/GbengaCyber/threat-hunting-scenario-tor)**
 
-- - **[Virtual Machine Brute Force Detection (MDE + Sentinel))](https://github.com/GbengaCyber/Virtual-Machine-Brute-Force-Detection---Remediation.git)**
+- **[SOC Brute Force Detection – Microsoft Defender & Sentinel))](https://github.com/GbengaCyber/Virtual-Machine-Brute-Force-Detection---Remediation.git)**
 
 
 
