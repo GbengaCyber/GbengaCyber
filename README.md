@@ -15,7 +15,6 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/GbengaCyber/vulnerability-management-project/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/GbengaCyber/programmatic-vulnerability-remediations)**
 
 
 <hr/>
