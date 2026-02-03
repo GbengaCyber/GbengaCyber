@@ -28,7 +28,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[SOC Brute Force Detection – Microsoft Defender & Sentinel))](https://github.com/GbengaCyber/Virtual-Machine-Brute-Force-Detection---Remediation.git)**
 
-- **[SOC Brute Force Detection – Microsoft Defender & Sentinel))](https://github.com/GbengaCyber/-Email-Phishing-Investigation-Remediation-SOC-Project-.git)**
+- **[Email-Phishing-Investigation-Remediation-SOC-Project))](https://github.com/GbengaCyber/-Email-Phishing-Investigation-Remediation-SOC-Project-.git)**
 
 
   
