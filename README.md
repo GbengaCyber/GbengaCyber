@@ -21,6 +21,9 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 🚨 Threat Hunting and Security Operations
 
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GbengaCyber/threat-hunting-scenario-tor)**
+
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GbengaCyber/threat-hunting-scenario-tor)**
 
 - **[Devices Accidentally Exposed to the Internet/Investigation & Remediation)](https://github.com/GbengaCyber/threat-hunting-scenario-tor)**
