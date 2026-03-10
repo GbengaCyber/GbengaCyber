@@ -22,7 +22,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 ## 🚨 Threat Hunting and Security Operations
 
 
-- **[ctf Exercise - The Cyber Range SOC)]([https://github.com/GbengaCyber/Suspicious-Powershell-Invoke-WebRequest---SOC-Sceneario.git](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
+- **[CTF Exercise - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
 
 - **[PowerShell Suspicious Web Request Detection & Incident Response)](https://github.com/GbengaCyber/Suspicious-Powershell-Invoke-WebRequest---SOC-Sceneario.git)**
 
