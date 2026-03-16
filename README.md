@@ -24,6 +24,9 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[CTF Exercise - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
 
+- **[Impossible Travel - Incident Repsonse)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
+
+
 - **[Azure-SOC-Lab-Brute-Force-Detection-and-Response)](https://github.com/GbengaCyber/-Azure-Honeypot-Live-Brute-Force-Detection-Response.git)**
 
 - **[PowerShell Suspicious Web Request Detection & Incident Response)](https://github.com/GbengaCyber/Suspicious-Powershell-Invoke-WebRequest---SOC-Sceneario.git)**
