@@ -26,6 +26,8 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[Impossible Travel - Incident Repsonse)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
 
+- **[SOC Investigation Lab - Blue Team Portfolio)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
+
 
 - **[Azure-SOC-Lab-Brute-Force-Detection-and-Response)](https://github.com/GbengaCyber/-Azure-Honeypot-Live-Brute-Force-Detection-Response.git)**
 
