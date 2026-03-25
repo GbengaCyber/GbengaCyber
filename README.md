@@ -24,6 +24,8 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[CTF Exercise - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
 
+- **[CTF Exercise - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
+
 - **[Impossible Travel - Incident Repsonse)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
 
 - **[SOC Investigation Lab - Potential human-operated malicious activity)](https://github.com/GbengaCyber/SOC-Investigation-Lab---Potential-Human-Operated-Malicious-Activity.git)**
