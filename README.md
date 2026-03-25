@@ -22,9 +22,9 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 ## 🚨 Threat Hunting and Security Operations
 
 
-- **[CTF Exercise - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
+- **[CTF  - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
 
-- **[CTF Exercise - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
+- **[CTF - Akira Ransomware — Ashford Sterling Recruitment](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
 
 - **[Impossible Travel - Incident Repsonse)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
 
