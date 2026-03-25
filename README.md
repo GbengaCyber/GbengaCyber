@@ -24,7 +24,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[CTF  - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
 
-- **[CTF - Akira Ransomware — Ashford Sterling Recruitment](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
+- **[CTF - Akira Ransomware — Ashford Sterling Recruitment](https://github.com/GbengaCyber/CTF---Ransomeware---Cyber-Range-SOC-V2.git)**
 
 - **[Impossible Travel - Incident Repsonse)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
 
