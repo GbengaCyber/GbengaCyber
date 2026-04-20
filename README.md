@@ -21,7 +21,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Device Code Flow Attack — Microsoft Entra ID Lab)](https://github.com/GbengaCyber/RMM-Abuse-Detection-Prevention---SOC.git)**
+- **[Device Code Flow Attack — Microsoft Entra ID Lab)](https://github.com/GbengaCyber/Device-Code-Flow-Attack-Microsoft-Entra-ID-Lab.git)**
 
 - **[RMM Abuse Detection & Prevention)](https://github.com/GbengaCyber/RMM-Abuse-Detection-Prevention---SOC.git)**
   
