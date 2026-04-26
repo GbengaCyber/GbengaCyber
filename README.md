@@ -31,7 +31,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[Impossible Travel - Incident Repsonse)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
 
-- **[Conditional Access Troubleshooting Runbook - Simulation)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
+- **[Conditional Access Troubleshooting Runbook - Entra ID)](https://github.com/GbengaCyber/Conditional-Access-Troubleshooting-Runbook---Lab-Simulation.git)**
 
 - **[SOC Investigation Lab - Potential human-operated malicious activity)](https://github.com/GbengaCyber/SOC-Investigation-Lab---Potential-Human-Operated-Malicious-Activity.git)**
 
