@@ -8,7 +8,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 📄 Resume
 
-- **[👉 View my Resume (PDF)](https://docs.google.com/document/d/1_0EJIhRVcMmS5K-ZtnLhDXw8KoE3eilUGprNTWp3Guw/edit?usp=sharing)**
+- **[👉 View my Resume (PDF)]()**
 
 <hr/>
 
