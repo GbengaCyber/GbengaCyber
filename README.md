@@ -60,7 +60,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 🔥 IAM Projects 
 
-- **[Cloud SOC Honeynet in Azure (Live Traffic)](https://github.com/GbengaCyber/Cloud-Soc)**
+- **[Onboarding a New App to SSO Using SAML)](https://github.com/GbengaCyber/IAM-Security-Labs.git)**
 
 
 <hr/>
