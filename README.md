@@ -21,7 +21,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[RMM Attack Simulation and Defense Lab)](https://github.com/GbengaCyber/Device-Code-Flow-Attack-Microsoft-Entra-ID-Lab.git)**
+- **[RMM Attack Simulation and Defense Lab)](https://github.com/GbengaCyber/RMM-Attack-Simulation-and-Defense-Lab.git)**
 
 - **[Device Code Flow Attack — Microsoft Entra ID Lab)](https://github.com/GbengaCyber/Device-Code-Flow-Attack-Microsoft-Entra-ID-Lab.git)**
 
