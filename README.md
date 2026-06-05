@@ -21,7 +21,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[MDE Malware Analysis - Detection & Remediation)](https://github.com/GbengaCyber/MDE-Malware-Analysis---Detection-Investigation-Remediation.git)**
+- **[MDE Malware Analysis: Detection & Remediation)](https://github.com/GbengaCyber/MDE-Malware-Analysis---Detection-Investigation-Remediation.git)**
 
 - **[BEC:CFO Phishing SOC LAB)](https://github.com/GbengaCyber/BEC-CFO-Phishing-SOC-LAB.git)**
 
@@ -29,19 +29,19 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 - **[RMM Attack Simulation and Defense Lab)](https://github.com/GbengaCyber/RMM-Attack-Simulation-and-Defense-Lab.git)**
 
 
-- **[Device Code Flow Attack — Microsoft Entra ID Lab)](https://github.com/GbengaCyber/Device-Code-Flow-Attack-Microsoft-Entra-ID-Lab.git)**
+- **[Device Code Flow Attack: Microsoft Entra ID Lab)](https://github.com/GbengaCyber/Device-Code-Flow-Attack-Microsoft-Entra-ID-Lab.git)**
 
 - **[RMM Abuse Detection & Prevention)](https://github.com/GbengaCyber/RMM-Abuse-Detection-Prevention---SOC.git)**
   
 - **[CTF  - The Cyber Range SOC)](https://github.com/GbengaCyber/CTF---Cyber-Range-SOC-.git)**
 
-- **[CTF - Akira Ransomware — SOC Investigation](https://github.com/GbengaCyber/CTF---Ransomeware---Cyber-Range-SOC-V2.git)**
+- **[CTF - Akira Ransomware: SOC Investigation](https://github.com/GbengaCyber/CTF---Ransomeware---Cyber-Range-SOC-V2.git)**
 
-- **[Impossible Travel - Incident Repsonse)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
+- **[Impossible Travel: Incident Repsonse)](https://github.com/GbengaCyber/SOC-Home-Lab-Impossible-Travel-Detection.git)**
 
 - **[Conditional Access Troubleshooting Runbook - Entra ID)](https://github.com/GbengaCyber/Conditional-Access-Troubleshooting-Runbook---Lab-Simulation.git)**
 
-- **[SOC Investigation Lab - Potential human-operated malicious activity)](https://github.com/GbengaCyber/SOC-Investigation-Lab---Potential-Human-Operated-Malicious-Activity.git)**
+- **[SOC Investigation Lab: Potential human-operated malicious activity)](https://github.com/GbengaCyber/SOC-Investigation-Lab---Potential-Human-Operated-Malicious-Activity.git)**
 
 
 - **[Azure-SOC-Lab-Brute-Force-Detection-and-Response)](https://github.com/GbengaCyber/-Azure-Honeypot-Live-Brute-Force-Detection-Response.git)**
@@ -52,7 +52,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[Devices Accidentally Exposed to the Internet/Investigation & Remediation)](https://github.com/GbengaCyber/threat-hunting-scenario-tor)**
 
-- **[SOC Brute Force Detection – Microsoft Defender & Sentinel))](https://github.com/GbengaCyber/Virtual-Machine-Brute-Force-Detection---Remediation.git)**
+- **[SOC Brute Force Detection: Microsoft Defender & Sentinel))](https://github.com/GbengaCyber/Virtual-Machine-Brute-Force-Detection---Remediation.git)**
 
 - **[Email-Phishing-Investigation-Remediation-SOC-Project))](https://github.com/GbengaCyber/-Email-Phishing-Investigation-Remediation-SOC-Project-.git)**
 
