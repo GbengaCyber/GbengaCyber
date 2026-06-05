@@ -23,7 +23,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 - **[MDE Malware Analysis - Detection & Remediation)](https://github.com/GbengaCyber/MDE-Malware-Analysis---Detection-Investigation-Remediation.git)**
 
-- **[BEC-CFO-Phishing-SOC-LAB)](https://github.com/GbengaCyber/MDE-Malware-Analysis---Detection-Investigation-Remediation.git)**
+- **[BEC-CFO-Phishing-SOC-LAB)](https://github.com/GbengaCyber/BEC-CFO-Phishing-SOC-LAB.git)**
 
 
 - **[RMM Attack Simulation and Defense Lab)](https://github.com/GbengaCyber/RMM-Attack-Simulation-and-Defense-Lab.git)**
