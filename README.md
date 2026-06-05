@@ -71,6 +71,8 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 - **[Onboarding a New App to SSO Using SAML)](https://github.com/GbengaCyber/IAM-Security-Labs.git)**
 
 
+- **[BEC:CFO Phishing SOC LAB)](https://github.com/GbengaCyber/BEC-CFO-Phishing-SOC-LAB.git)**
+
 <hr/>
 
 <hr/>
